@@ -1,0 +1,17 @@
+Medcezir;Ceza;1055;Rap;2002
+İki Keklik;Erkan Ogur;1003;Turk Halk;1996
+Bu Sehir Girdap Gulum;Gurkan Uygun;0097;Turk Halk;2012
+Iron Man;Black Sabbath;1542;Rock;1970
+Mekanin Sahibi;Norm Ender;1023;Rap;2019
+Skyfall;Adele;2205;Pop;2012
+Hot Stuff;Donna Summer;1324;Pop;1979
+Unutamadim;Muslum Gurses;1953;Arabesk;1986
+Yolcu;Neset Ertas;1923;Turk Halk;2003
+Where Is My Mind;Pixies;1955;Alternative;1988
+Donence;Baris Manco;1468;Anatolian Rock;1981
+Dusty Blue;Charles Bradley;4268;Jazz;2013
+Billie Jean;Michael Jackson;7564;R&B;1982
+Nothing Else Matters;Metallica;6678;Rock;1991
+Cendere;Gokhan Kırdar;0043;Soundtrack;2004
+Rapture;Tom Walker;1860;Alternative;2017
+Smooth Operator;Sade;2540;Pop;1984
